@@ -1,0 +1,12 @@
+--2025-04-07 20:43:40--  https://bioinformatics.cnio.es/data/courses/decont/C57BL_6NJ-12.5dpp.1.2s_sRNA.fastq.gz
+Resolviendo bioinformatics.cnio.es (bioinformatics.cnio.es)... 193.147.150.69
+Conectando con bioinformatics.cnio.es (bioinformatics.cnio.es)[193.147.150.69]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 2823896 (2,7M) [application/x-gzip]
+Guardando como: ‘data/C57BL_6NJ-12.5dpp.1.2s_sRNA.fastq.gz.4’
+
+C57BL_6NJ-12.5dpp.1.2s_sRNA.fastq.gz.4       61%[=====================================================>                                   ]   1,66M  --.-KB/s    eta 6m 11s C57BL_6NJ-12.5dpp.1.2s_sRNA.fastq.gz.4      100%[========================================================================================>]   2,69M  1,03MB/s    en 9m 52s  
+
+utime(data/C57BL_6NJ-12.5dpp.1.2s_sRNA.fastq.gz.4): No existe el archivo o el directorio
+2025-04-07 20:53:32 (4,66 KB/s) - ‘data/C57BL_6NJ-12.5dpp.1.2s_sRNA.fastq.gz.4’ guardado [2823896/2823896]
+

@@ -1,0 +1,17 @@
+42bf76316436fc3d8ea5a13d8b6c11a6  res/filtered_contaminants.fasta.gz.md5
+06479a944b9d6a7e7fd858569be10bed  res/contaminants_idx/chrNameLength.txt
+6dcea2400a7648341d0a23823ff76792  res/contaminants_idx/genomeParameters.txt
+ac78aab0933d6492f55ef65792d73e79  res/contaminants_idx/SAindex
+6f011d903a3731529b98d0f1ef76bb2b  res/contaminants_idx/chrLength.txt
+0ba028857076541d31a90b69e825bc59  res/contaminants_idx/chrName.txt
+1dea7fc8c19286cd6a2bbf9ff00e2a83  res/contaminants_idx/Log.out
+559185862ec373be8b3b36bcf46d4674  res/contaminants_idx/Genome
+a044934f03f5bfc1583c5a60b2ff0c95  res/contaminants_idx/SA
+71315a68b9ec72252775829bd11ef5e1  res/contaminants_idx/chrStart.txt
+d41d8cd98f00b204e9800998ecf8427e  res/filtered_contaminants.fasta.gz
+42bf76316436fc3d8ea5a13d8b6c11a6  res/contaminants.fasta.gz.md5
+075304d823c98d3fc61a622106827981  res/filtered_contaminants.fasta
+547c9a6bc1421ed84df5cf381d6375ee  res/contaminants.fasta
+49d3a098abe50fedd0ff0af90619c9a9  res/contaminants.fasta.gz
+d41d8cd98f00b204e9800998ecf8427e  res/.gitkeep
+42bf76316436fc3d8ea5a13d8b6c11a6  res/contaminants.fasta.gz.md5.1
