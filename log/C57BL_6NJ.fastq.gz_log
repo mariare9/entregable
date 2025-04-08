@@ -1,0 +1,79 @@
+This is cutadapt 2.6 with Python 3.7.12
+Command line parameters: -m 18 -a TGGAATTCTCGGGTGCCAAGG --discard-untrimmed -o out/trimmed/C57BL_6NJ.fastq.gz_trimmed.fastq.gz out/merged/C57BL_6NJ.fastq.gz
+Processing reads on 1 core in single-end mode ...
+Finished in 0.68 s (7 us/read; 8.82 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:                 100,000
+Reads with adapters:                    99,047 (99.0%)
+Reads that were too short:               6,754 (6.8%)
+Reads written (passing filters):        92,293 (92.3%)
+
+Total basepairs processed:     5,000,000 bp
+Total written (filtered):      2,510,527 bp (50.2%)
+
+=== Adapter 1 ===
+
+Sequence: TGGAATTCTCGGGTGCCAAGG; Type: regular 3'; Length: 21; Trimmed: 99047 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-19 bp: 1; 20-21 bp: 2
+
+Bases preceding removed adapters:
+  A: 21.1%
+  C: 29.7%
+  G: 14.9%
+  T: 34.3%
+  none/other: 0.1%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	26	1562.5	0	26
+4	26	390.6	0	26
+5	17	97.7	0	17
+6	29	24.4	0	29
+7	41	6.1	0	41
+8	30	1.5	0	30
+9	64	0.4	0	63 1
+10	72	0.1	1	72
+11	143	0.0	1	142 1
+12	186	0.0	1	170 16
+13	299	0.0	1	274 25
+14	389	0.0	1	378 11
+15	245	0.0	1	242 3
+16	295	0.0	1	292 3
+17	664	0.0	1	622 42
+18	950	0.0	1	883 66 1
+19	2355	0.0	1	2308 46 1
+20	5859	0.0	2	5732 119 8
+21	11216	0.0	2	10982 219 15
+22	17814	0.0	2	17439 350 25
+23	21894	0.0	2	21401 442 51
+24	14441	0.0	2	14094 325 22
+25	4665	0.0	2	4548 106 11
+26	3720	0.0	2	3266 444 10
+27	2065	0.0	2	1798 253 14
+28	1381	0.0	2	1324 53 4
+29	883	0.0	2	861 19 3
+30	534	0.0	2	519 13 2
+31	652	0.0	2	596 54 2
+32	1338	0.0	2	1241 94 3
+33	1460	0.0	2	1425 33 2
+34	1621	0.0	2	1570 44 7
+35	1710	0.0	2	1656 50 4
+36	525	0.0	2	509 14 2
+37	559	0.0	2	530 24 5
+38	137	0.0	2	133 4
+39	59	0.0	2	55 3 1
+40	131	0.0	2	123 8
+41	56	0.0	2	49 7
+42	32	0.0	2	30 1 1
+43	108	0.0	2	105 3
+44	29	0.0	2	28 0 1
+45	24	0.0	2	23 1
+46	27	0.0	2	25 2
+47	34	0.0	2	31 3
+48	184	0.0	2	167 17
+49	6	0.0	2	5 1
+50	52	0.0	2	47 5

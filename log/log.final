@@ -1,0 +1,46 @@
+---------- CUTADAPT RESULTS ----------
+Sample: *
+
+---------- STAR RESULTS ----------
+Sample: *
+
+---------- CUTADAPT RESULTS ----------
+Sample: C57BL_6NJ.fastq.gz
+
+Reads with adapters:                    99,047 (99.0%)
+Total basepairs processed:     5,000,000 bp
+Sample: SPRET_EiJ.fastq.gz
+
+Reads with adapters:                    99,255 (99.3%)
+Total basepairs processed:     5,000,000 bp
+---------- STAR RESULTS ----------
+Sample: C57BL_6NJ.fastq.gz
+
+                        Uniquely mapped reads % |	3.12%
+             % of reads mapped to multiple loci |	4.62%
+             % of reads mapped to too many loci |	0.72%
+Sample: SPRET_EiJ.fastq.gz
+
+                        Uniquely mapped reads % |	2.89%
+             % of reads mapped to multiple loci |	4.21%
+             % of reads mapped to too many loci |	1.17%
+---------- CUTADAPT RESULTS ----------
+Sample: C57BL_6NJ.fastq.gz
+
+Reads with adapters:                    99,047 (99.0%)
+Total basepairs processed:     5,000,000 bp
+Sample: SPRET_EiJ.fastq.gz
+
+Reads with adapters:                    99,255 (99.3%)
+Total basepairs processed:     5,000,000 bp
+---------- STAR RESULTS ----------
+Sample: C57BL_6NJ.fastq.gz
+
+                        Uniquely mapped reads % |	3.12%
+             % of reads mapped to multiple loci |	4.62%
+             % of reads mapped to too many loci |	0.72%
+Sample: SPRET_EiJ.fastq.gz
+
+                        Uniquely mapped reads % |	2.89%
+             % of reads mapped to multiple loci |	4.21%
+             % of reads mapped to too many loci |	1.17%
