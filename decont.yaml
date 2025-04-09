@@ -1,0 +1,10 @@
+name: entregablelinux
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - nodefaults
+dependencies:
+  - cutadapt
+  - star
+prefix: /home/vant/miniforge3/envs/entregablelinux
